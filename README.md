@@ -1,4 +1,3 @@
-```markdown
 # Event-Driven Micro-Checkout
 
 A minimal event-driven checkout system demonstrating **RabbitMQ** (Saga pattern, DLQ, retries), **Redis** (stock cache & idempotency), **Express** (SSE streams), and **React**.
