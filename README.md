@@ -95,5 +95,3 @@ cd frontend && npm run dev
 | **Gateway Timeout** | Payment retries twice after 4s delays $\to$ Message moves to DLQ $\to$ Stock rolls back. |
 
 ```
-
-```
